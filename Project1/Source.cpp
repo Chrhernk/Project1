@@ -114,7 +114,7 @@ void TheMarket(string Name)
 	cout << "\nThe other shops were filled with magical items, and the power was pulsing and changing all the time";
 	cout << "\nyou decide to pass through a few more of them, and pick up an amulet that is full of energy, in the shape of an eye.\n";
 	cout << "\n And as you bought the eye, wrapping it around your neck, before you suddenly faded out of existance, and into a white abyss, a voice behinf you only saying ";
-		cout <<  "Welcome back, " << Name <<". ";
-		exit;
+	cout << "Welcome back, " << Name << ". ";
+	exit;
 	return;
-}
+}   
