@@ -138,7 +138,23 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="DisplayIntroToUser.cpp" />
+    <ClCompile Include="PlayerName.cpp" />
+    <ClCompile Include="set1.cpp" />
+    <ClCompile Include="set2.cpp" />
     <ClCompile Include="Source.cpp" />
+    <ClCompile Include="TheBar.cpp" />
+    <ClCompile Include="TheMarket.cpp" />
+    <ClCompile Include="TheStoryStarts.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DisplayIntroToUser.h" />
+    <ClInclude Include="PlayerName.h" />
+    <ClInclude Include="set1.h" />
+    <ClInclude Include="set2.h" />
+    <ClInclude Include="TheBar.h" />
+    <ClInclude Include="TheMarket.h" />
+    <ClInclude Include="TheStoryStarts.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
