@@ -139,6 +139,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="DisplayIntroToUser.cpp" />
+    <ClCompile Include="Person.cpp" />
     <ClCompile Include="PlayerName.cpp" />
     <ClCompile Include="set1.cpp" />
     <ClCompile Include="set2.cpp" />
@@ -149,6 +150,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DisplayIntroToUser.h" />
+    <ClInclude Include="Person.h" />
     <ClInclude Include="PlayerName.h" />
     <ClInclude Include="set1.h" />
     <ClInclude Include="set2.h" />
