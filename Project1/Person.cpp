@@ -3,13 +3,7 @@
 #include <iostream>
 using namespace std;
 
-Person::Person(string name, string age, int health)
-{
 
-	Name = name;
-	Age = age;
-	Health = health;
-}
 void Person::Talk(string stuffToSay)
 {
 

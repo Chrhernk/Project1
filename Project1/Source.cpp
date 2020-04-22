@@ -7,7 +7,7 @@
 #include "TheBar.h"
 #include "set2.h"
 #include "TheMarket.h"
-#include "Person.h"
+
 using namespace std;
 //---sample function end
 int main()

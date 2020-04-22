@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+#include "Sellers.h"
 using namespace std;
 
 void TheMarket(string Name)
@@ -12,4 +13,18 @@ void TheMarket(string Name)
 	cout << "Welcome back, " << Name << ". ";
 	exit;
 	return;
+
+
+
+	//making people
+
+	Sellers FruitSeller("Orange Salesman", "300 years old", 100);
+
+
+
+
+
+
+
+
 }

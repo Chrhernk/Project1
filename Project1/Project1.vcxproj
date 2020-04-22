@@ -141,6 +141,7 @@
     <ClCompile Include="DisplayIntroToUser.cpp" />
     <ClCompile Include="Person.cpp" />
     <ClCompile Include="PlayerName.cpp" />
+    <ClCompile Include="Sellers.cpp" />
     <ClCompile Include="set1.cpp" />
     <ClCompile Include="set2.cpp" />
     <ClCompile Include="Source.cpp" />
@@ -152,6 +153,7 @@
     <ClInclude Include="DisplayIntroToUser.h" />
     <ClInclude Include="Person.h" />
     <ClInclude Include="PlayerName.h" />
+    <ClInclude Include="Sellers.h" />
     <ClInclude Include="set1.h" />
     <ClInclude Include="set2.h" />
     <ClInclude Include="TheBar.h" />

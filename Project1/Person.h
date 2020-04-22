@@ -16,9 +16,7 @@ public:
 	void Walk(int numberOfSteps);
 
 
-	//constructor
-
-	Person(string name, string age, int health);
+	
 
 	string HairColor;
 private:
