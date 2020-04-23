@@ -2,7 +2,6 @@
 #include <string>
 #include "PlayerName.h"
 #include "DisplayIntroToUser.h"
-#include "TheRiddle.h"
 #include "TheStoryStarts.h"
 #include "set1.h"
 #include "TheBar.h"
@@ -19,8 +18,6 @@ int main()
 	CallName = PlayerName();
 	//--- space ---
 	DisplayIntroToUser(CallName);
-	//--- space ---
-	TheRiddle(CallName);
 	//--- space ---
 	TheStoryStarts(CallName);
 	//--- space ---

@@ -13,7 +13,7 @@ int set2()
 	if (Choice == "go east")
 	{
 		cout << "\n\nYou go east and into the distance, ending your adventure for a new one.\n\n";
-		exit;
+		abort;
 	}
 	else if (Choice == "go west")
 	{
