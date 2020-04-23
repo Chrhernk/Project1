@@ -8,6 +8,8 @@ class Sellers
 
 
 public:
+	void Talk(string thingstosay);
+
 
 	Sellers (string name, string age, int health);
 

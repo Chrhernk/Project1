@@ -7,8 +7,8 @@ using namespace std;
 
 string PlayerName()
 {
-	string Name;
+	string CallName;
 	cout << "What is your Name?";
-	getline(cin, Name);
-	return Name;
+	getline(cin, CallName);
+	return CallName;
 }

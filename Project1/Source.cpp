@@ -14,8 +14,8 @@ int main()
 {
 	cout << "\n\n\t-----------Welcome to Hyrule, traveler!, This is your story, so why dont we take some time, get relaxed, and have a good time!-----------\t\n\n";
 	//--- space ---
-	string Name;
-	Name = PlayerName();
+	string CallName;
+	CallName = PlayerName();
 	//--- space ---
 	DisplayIntroToUser(Name);
 	//--- space ---
