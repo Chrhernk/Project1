@@ -17,9 +17,9 @@ int main()
 	string CallName;
 	CallName = PlayerName();
 	//--- space ---
-	DisplayIntroToUser(Name);
+	DisplayIntroToUser(CallName);
 	//--- space ---
-	TheStoryStarts(Name);
+	TheStoryStarts(CallName);
 	//--- space ---
 	set1();
 	//--- space ---
@@ -27,6 +27,6 @@ int main()
 	//--- space ---
 	set2();
 	//--- space ---
-	TheMarket(Name);
+	TheMarket(CallName);
 	return 0;
 }
