@@ -147,6 +147,7 @@
     <ClCompile Include="Source.cpp" />
     <ClCompile Include="TheBar.cpp" />
     <ClCompile Include="TheMarket.cpp" />
+    <ClCompile Include="TheRiddle.cpp" />
     <ClCompile Include="TheStoryStarts.cpp" />
   </ItemGroup>
   <ItemGroup>

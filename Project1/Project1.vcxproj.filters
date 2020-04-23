@@ -45,6 +45,9 @@
     <ClCompile Include="Sellers.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="TheRiddle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="PlayerName.h">

@@ -22,6 +22,7 @@ void TheMarket(string CallName)
 	cout << "\nSome of the shops sold weapons and armors, others with food and trinkets to buy";
 	FruitSeller.Talk ("Come and get ya Oranges here! Oranges only fifty ruppees");
 	cout << "\nThe other shops were filled with magical items, and the power was pulsing and changing all the time";
+	MagicSeller.Talk("Come and get your items of power! Prices vary~");
 	cout << "\nyou decide to pass through a few more of them, and pick up an amulet that is full of energy, in the shape of an eye.\n";
 	cout << "\n And as you bought the eye, wrapping it around your neck, before you suddenly faded out of existance, and into a white abyss, a voice behind you only saying ";
 	MagicMan.Talk("Welecome back");
